@@ -1,2 +1,2 @@
-nomad-measurements
-nomad-material-processing
+git+https://github.com/AddMorePower/nomad-SXDM_parser.git
+git+https://github.com/AddMorePower/nomad-DAMASK_parser.git
